@@ -1,0 +1,27 @@
+[
+  {
+    "id": "01",
+    "image": "case_1_plates.png",
+    "message": "I ordered a full ceramic dinner set for my party, but every single plate arrived smashed to pieces. Please process a complete replacement immediately."
+  },
+  {
+    "id": "02",
+    "image": "case_2_cup.png",
+    "message": "Opened my fragile glassware parcel and this yellow mug was completely shattered inside the bubble wrap with sharp shards everywhere."
+  },
+  {
+    "id": "03",
+    "image": "case_3_cooktop.png",
+    "message": "The ceramic glass induction cooktop arrived with a cracked surface and exposed heating elements, posing a hazardous electrical fire risk."
+  },
+  {
+    "id": "04",
+    "image": "case_4_dish.png",
+    "message": "My porcelain serving platter arrived split completely in half inside the box, the shipping carton was clearly crushed during transit."
+  },
+  {
+    "id": "05",
+    "image": "case_5_luggage.png",
+    "message": "My checked hard-shell suitcase was completely cracked open and mangled on the airport baggage conveyor with personal belongings exposed."
+  }
+]

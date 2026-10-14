@@ -1,0 +1,4 @@
+FROM ./models/d1-3B-Q8_0.gguf
+
+TEMPLATE """{{ .Prompt }}"""
+PARAMETER temperature 0.0
