@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://youtu.be/dS-Q47dI2_M">
-    <img src="https://img.youtube.com/vi/dS-Q47dI2_M/0.jpg" alt="Liquid d1 Dropped: This 407MB AI Makes 8ms Decisions With ZERO Tokens!">
+    <img src="https://img.youtube.com/vi/dS-Q47dI2_M/0.jpg" alt="Liquid d1: This 407MB AI Makes 8ms Decisions With ZERO Tokens!">
   </a>
   <h3>📺 <a href="https://youtu.be/dS-Q47dI2_M">Watch the full tutorial on YouTube</a></h3>
 </div>
