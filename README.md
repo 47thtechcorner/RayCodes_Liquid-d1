@@ -1,8 +1,8 @@
 <div align="center">
-  <a href="PLACEHOLDER_YT_URL">
-    <img src="https://img.youtube.com/vi/PLACEHOLDER_VIDEO_ID/0.jpg" alt="Liquid d1 Dropped: This 407MB AI Makes 8ms Decisions With ZERO Tokens!">
+  <a href="https://youtu.be/dS-Q47dI2_M">
+    <img src="https://img.youtube.com/vi/dS-Q47dI2_M/0.jpg" alt="Liquid d1 Dropped: This 407MB AI Makes 8ms Decisions With ZERO Tokens!">
   </a>
-  <h3>📺 <a href="PLACEHOLDER_YT_URL">Watch the full tutorial on YouTube</a></h3>
+  <h3>📺 <a href="https://youtu.be/dS-Q47dI2_M">Watch the full tutorial on YouTube</a></h3>
 </div>
 
 # 🌐 Liquid d1 Multimodal Triage Engine
